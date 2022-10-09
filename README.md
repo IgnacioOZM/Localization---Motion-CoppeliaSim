@@ -1,8 +1,5 @@
 # Localization---Motion-CoppeliaSim
-This project aims to solve the localization and motion problem. The robot pioneer p3dx will be placed in a random position on an known map.
-The robot will need to navigate through the map while avoinding obstacles to collect measurements that will be used to define it's position.
-Once the position of the robiot has been define, it will need to determine the optimal path to a given destination and navigate through the
-corridors as fast as possible.
+This project aims to solve the localization and motion problem. The robot pioneer p3dx will be placed in a random position on a known map. The robot will need to navigate through the map while avoiding obstacles to collect measurements that will be used to define its position. Once the position of the robot has been defined, it will need to determine the optimal path to a given destination and navigate through the corridors as fast as possible.
 
 This project will combine all the elements previously developed:
 * [Wall Follower PID](https://github.com/IgnacioOZM/Wall-Follower-PID-CoppeliaSim)
